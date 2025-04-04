@@ -2,7 +2,7 @@
 
 Bu Python betiği, web sunucularına veya API'lere yönelik basit ama etkili, asenkron bir HTTP yük testi aracıdır. `asyncio` ve `aiohttp` kütüphanelerini kullanarak yüksek eşzamanlılık seviyelerinde HTTP istekleri gönderebilir, performans metriklerini toplayabilir ve sonuçları özetleyebilir. Araç, kullanıcı dostu bir komut satırı arayüzü üzerinden interaktif olarak yapılandırılabilir.
 
-**⚠️ UYARI:** Bu araç, testleri doğrudan **sizin genel IP adresiniz üzerinden** gerçekleştirir. Yüksek hacimli testler, hedef sunucuda veya kendi ağınızda performans sorunlarına, istenmeyen trafik olarak algılanmaya veya engellenmelere yol açabilir. **Sorumlu bir şekilde ve sadece izinli olduğunuz sistemlerde kullanın.** Tam anonimlik veya kaynak IP gizliliği için sistem düzeyinde VPN veya Tor gibi ek araçlar kullanmanız gerekebilir. Ayrıca, betik varsayılan olarak **SSL/TLS sertifika doğrulamasını devre dışı bırakır**, bu da güvenlik riski oluşturur (Man-in-the-Middle saldırıları). Sadece test ortamlarında ve riskleri anlayarak kullanın.
+**⚠️ UYARI:** Bu araç, testleri doğrudan **sizin genel IP adresiniz üzerinden** gerçekleştirir. Yüksek hacimli testler, hedef sunucuda veya kendi ağınızda performans sorunlarına, istenmeyen trafik olarak algılanmaya veya engellenmelere yol açabilir. **Sorumlu bir şekilde ve sadece izinli olduğunuz sistemlerde kullanın.** Tam anonimlik veya kaynak IP gizliliği için sistem düzeyinde VPN veya Tor gibi ek araçlar kullanmanız gerekebilir.
 
 ## ✨ Temel Özellikler
 
