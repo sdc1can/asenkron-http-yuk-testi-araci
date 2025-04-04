@@ -1,6 +1,6 @@
 # Asenkron HTTP Yük Testi Aracı
 
-Bu araç, belirtilen hedef URL(ler)e eş zamanlı olarak HTTP istekleri göndererek web uygulamalarınızın veya API'lerinizin performansını ve dayanıklılığını test etmenize olanak tanır. Kullanıcı dostu bir arayüze sahiptir ve çeşitli yapılandırma seçenekleri sunar.
+Bu araç, belirtilen hedef URL'e eş zamanlı olarak HTTP istekleri göndererek web uygulamalarınızın veya API'lerinizin performansını ve dayanıklılığını test etmenize olanak tanır. Kullanıcı dostu bir arayüze sahiptir ve çeşitli yapılandırma seçenekleri sunar.
 
 ## İçindekiler
 
